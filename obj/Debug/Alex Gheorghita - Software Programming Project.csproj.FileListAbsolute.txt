@@ -1,0 +1,17 @@
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\bin\Debug\Alex Gheorghita - Software Programming Project.exe.config
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\bin\Debug\Alex Gheorghita - Software Programming Project.exe
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\bin\Debug\Alex Gheorghita - Software Programming Project.pdb
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\obj\Debug\Alex Gheorghita - Software Programming Project.csprojAssemblyReference.cache
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\obj\Debug\Alex_Gheorghita___Software_Programming_Project.Form1.resources
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\obj\Debug\Alex_Gheorghita___Software_Programming_Project.Form2.resources
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\obj\Debug\Alex_Gheorghita___Software_Programming_Project.Form3.resources
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\obj\Debug\Alex_Gheorghita___Software_Programming_Project.Form4.resources
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\obj\Debug\Alex_Gheorghita___Software_Programming_Project.Properties.Resources.resources
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\obj\Debug\Alex Gheorghita - Software Programming Project.csproj.GenerateResource.cache
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\obj\Debug\Alex Gheorghita - Software Programming Project.csproj.CoreCompileInputs.cache
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\obj\Debug\Alex Gheorghita - Software Programming Project.exe
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\obj\Debug\Alex Gheorghita - Software Programming Project.pdb
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\obj\Debug\Alex_Gheorghita___Software_Programming_Project.Form5.resources
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\obj\Debug\Alex_Gheorghita___Software_Programming_Project.Form6.resources
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\obj\Debug\Alex_Gheorghita___Software_Programming_Project.Form7.resources
+C:\Users\alexu\source\repos\Alex Gheorghita - Software Programming Project\Alex Gheorghita - Software Programming Project\obj\Debug\Alex_Gheorghita___Software_Programming_Project.Form8.resources
